@@ -1,2 +1,8 @@
-# 132-OP-ValiantStart
-Resources for a DCS:World Operation
+# OPERATION VALIANT STAR
+
+## Pretext
+During last weeks UN summit, Georgia officially asked for help resolving the current situation in the region. This sparked outrage in the newly formed republics of West-Georgia and Adjara claiming that Georgia is trying to gain support in order to legitimize a second civil-war to reclaim land previously lost. Following the week since the summit, between 50-100 people, including civilians, are believed to have been killed in clashes along the borders between West-Georgia, Adjara and Georgia. With tensions still rising, there is a growing fear that the region is indeed headed for its second civil-war within only a decade.
+
+While the UN is still on the fence, some countries have expressed concerns - both humanitarian and political, about the situation. There are concerns that the Russian Federation will increase its support to Adjara, causing West-Georgia and Adjara to enter into an armed conflict. There are reasons to believe that Russia seeks to extend its newly acquired region of Abkhazia and fighting a war on several fronts is not within Western-Georgia's current military capacity. West-Georgia would have to enter into negotiations immediately - with very little to bargain with. Another supporter of the newly formed Adjarian republic is Turkey. However, any motives for supporting such a push would be unclear at this time.
+
+In view of this, the newly formed Task Force Poseidon (TF-P) sailed into the Black Sea two days ago. TF-P, along with the 132nd vWing stationed in Tbilisi has been tasked with forming a contingency plan should a military intervention become reality. However, the arrival of TF-P has so far caused more public outcry from Russian Federation, West-Georgian and Adjarian authorities stating that western intervention in the region is not welcome, and again raising questions about the continuous presence of the 132nd in neighboring Georgia - claiming that the UN enforced Air Policing mission is redundant.
